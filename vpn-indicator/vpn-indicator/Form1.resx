@@ -60,6 +60,15 @@
   <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
   <data name="NotifyIcon1.Icon" type="System.Drawing.Icon, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
+        AAABAAEAGBgCAAEAAQDwAAAAFgAAACgAAAAYAAAAMAAAAAEAAQAAAAAAwAAAAAAAAAAAAAAAAgAAAAAA
+        AAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAH4AAABmAAAAwwAAAMMAAADDAAAAZgAAADAAABwY
+        OAB/DH4AY2YGAEHDAgBBgYIAYxjGAD48fAAIABAAAAAAAAAAAAAAAAAAAAAAAP///wD///8A////AP//
+        /wD///8A/4H/AP+Z/wD/PP8A/zz/AP88/wD/mf8A/8//AOPnxwCA84EAnJn5AL48/QC+fn0AnOc5AMHD
+        gwD3/+8A////AP///wD///8A////AA==
+</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
         AAABAAYAAAAAAAEAIADFAwAAZgAAAICAAAABACAAKAgBACsEAABAQAAAAQAgAChCAABTDAEAMDAAAAEA
         IACoJQAAe04BACAgAAABACAAqBAAACN0AQAQEAAAAQAgAGgEAADLhAEAiVBORw0KGgoAAAANSUhEUgAA
         AQAAAAEACAQAAAD2e2DtAAADjElEQVR42u3d0XKkNhRF0Ukq///LkyfKNe04dgMCpL3Wsw1q+9S9QjTi
